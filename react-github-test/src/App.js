@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          수정본
+          수정본_test_branch
         </a>
       </header>
     </div>
